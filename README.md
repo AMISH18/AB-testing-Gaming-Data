@@ -7,4 +7,4 @@ This game s a hugely popular mobile puzzle game developed by [Tactile Entertainm
 
 In particular, we will analyze the impact on player _retention_ – both 1-day retention and 3-day retention. I formulated the null hypothesis for this test, and control group. I  conducted basic EDA to better understand the data and variables. Also, I used chi-square test to understand the statistical significance of change in retention rates for both tests. 
 
-Remember, chi-square is a very good test to check for any gaps in hythesis.
+Remember, chi-square is a very good test to check for any gaps in hypothesis.
