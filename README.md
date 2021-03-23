@@ -1,7 +1,7 @@
 # AB-testing-Gaming-Data
 Project Description [Cookie Cats]
 
-(https://www.facebook.com/cookiecatsgame) i
+(https://www.facebook.com/cookiecatsgame)
 
 This game s a hugely popular mobile puzzle game developed by [Tactile Entertainment](http://tactile.dk). It's a classic "connect three" style puzzle game where the player must connect tiles of the same color in order to clear the board and win the level. It also features singing cats. We're not kidding! As players progress through the game they will encounter gates that force them to wait some time before they can progress or make an in-app purchase. In this project, we will analyze the result of an A/B test where the first gate in Cookie Cats was moved from level 30 to level 40.
 
